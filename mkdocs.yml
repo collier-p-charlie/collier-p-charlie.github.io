@@ -1,0 +1,26 @@
+site_name: Charlie Collier Homepage
+
+repo_url: https://github.com/collier-p-charlie/
+repo_name: personal-github
+
+site_url: https://collier-p-charlie.github.io/
+
+theme:
+  name: material
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - CV: cv/docs.md
+  - Packages:
+      - "fsio": https://collier-p-charlie.github.io/fsio/
+#  - Blog:
+#      - "2024-12-15 – Getting Started": blog/2024-12-15-getting-started.md
+#      - "2025-01-10 – Python Tips": blog/2025-01-10-python-tips.md
+#      - "2025-03-02 – DevOps Notes": blog/2025-03-02-devops-notes.md
