@@ -1,12 +1,30 @@
+# Site settings
 site_name: Charlie Collier Homepage
-
-repo_url: https://github.com/collier-p-charlie/
-repo_name: personal-github
-
 site_url: https://collier-p-charlie.github.io/
 
+# Repository settings
+repo_name: personal-github
+repo_url: https://github.com/collier-p-charlie/
+
+# Theme settings
 theme:
   name: material
+  language: en
+  font:
+    text: montserrat
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
 
 plugins:
   - search
@@ -20,7 +38,3 @@ nav:
   - CV: cv/docs.md
   - Packages:
       - "fsio": https://collier-p-charlie.github.io/fsio/
-#  - Blog:
-#      - "2024-12-15 – Getting Started": blog/2024-12-15-getting-started.md
-#      - "2025-01-10 – Python Tips": blog/2025-01-10-python-tips.md
-#      - "2025-03-02 – DevOps Notes": blog/2025-03-02-devops-notes.md

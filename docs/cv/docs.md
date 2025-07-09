@@ -1,6 +1,6 @@
 # CV
 
-You can download or view my latest CV [here](../../assets/cv/cv_latest.pdf).
+You can download or view my latest CV [here](../../assets/cv/pdf/cv_latest.pdf).
 
 Expertise in **Python**, **SQL** and **Infrastructure as Code** as well as **Airflow**, **Bash**, **Testing**, **dbt**, **Databases**, **Docker**, **API**s and **Spark**.
 I like to _design solutions_ (from _networking_ and _permissions_ through to _app development_) and then implement with best practices.
@@ -14,19 +14,19 @@ Check out my current valid _certifications_.
 
 <p>
 <a href="https://www.credly.com/badges/0a055cad-6cd3-45a2-b1dd-04ad6455321e/public_url" target="_blank">
-  <img src="../../assets/certifications/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner Badge" width="100" />
+  <img src="../../assets/cv/certifications/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner Badge" width="100" />
 </a>
 <a href="https://www.credly.com/badges/4cce11a0-f720-4646-8c03-c2c8e1a3ce8a/public_url" target="_blank">
-  <img src="../../assets/certifications/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator Associate Badge" width="100" />
+  <img src="../../assets/cv/certifications/aws-certified-sysops-administrator-associate.png" alt="AWS SysOps Administrator Associate Badge" width="100" />
 </a>
 <a href="https://www.credly.com/badges/3f1053f3-d646-4709-933d-b0ce9b6e8c52/public_url" target="_blank">
-  <img src="../../assets/certifications/aws-certified-developer-associate.png" alt="AWS Developer Associate Badge" width="100" />
+  <img src="../../assets/cv/certifications/aws-certified-developer-associate.png" alt="AWS Developer Associate Badge" width="100" />
 </a>
 <a href="https://www.credly.com/badges/4433d096-c5a2-44e0-8336-8734fb5e4556/public_url" target="_blank">
-  <img src="../../assets/certifications/aws-certified-data-engineer-associate.png" alt="AWS Data Engineer Associate Badge" width="100" />
+  <img src="../../assets/cv/certifications/aws-certified-data-engineer-associate.png" alt="AWS Data Engineer Associate Badge" width="100" />
 </a>
 <a href="https://www.credly.com/badges/221fd7b9-0faa-48b2-ba38-3b411a9912d3/public_url" target="_blank">
-  <img src="../../assets/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate Badge" width="100" />
+  <img src="../../assets/cv/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate Badge" width="100" />
 </a>
 </p>
 
@@ -35,6 +35,12 @@ Check out my current valid _certifications_.
 ## Work Experience
 
 ### [Hard Rock Digital](https://www.hardrockdigital.com)
+
+<p>
+<a href="https://www.hardrockdigital.com" target="_blank">
+  <img src="../../assets/cv/pictures/hard-rock-digital-banner.jpg" alt="HRD Banner" width="100%" />
+</a>
+</p>
 
 *Data Engineer (Remote) / Jan 2025 – present*  
 
@@ -46,6 +52,12 @@ Check out my current valid _certifications_.
     - Designed and built out in **Terragrunt** / **Terraform** the new gambling _self-exclusion_ pipeline.
 
 ### [MarketCast](https://marketcast.com)
+
+<p>
+<a href="https://marketcast.com" target="_blank">
+  <img src="../../assets/cv/pictures/marketcast-banner.jpeg" alt="MarketCast Banner" width="100%" />
+</a>
+</p>
 
 *Senior Cloud Engineer (Hybrid) / November 2023 – January 2025*  
 
@@ -94,6 +106,12 @@ Check out my current valid _certifications_.
 
 ### University
 
+<p>
+<a href="https://www.bath.ac.uk" target="_blank">
+  <img src="../../assets/cv/pictures/university-of-bath.svg" alt="UOB Logo" width="25%" />
+</a>
+</p>
+
 _Masters in Mathematics_, **MMath** from the _University of Bath_.<br>
-Awarded _first class honours_ and attended from **September 2015** to **July 2019**.<br>
-My _thesis_ is [here](../../assets/cv/math_thesis.pdf).
+Awarded _first class honours_ (88%) and attended from **September 2015** to **July 2019**.<br>
+I specialised in functional analysis and my _thesis_ is [here](../../assets/cv/pdf/math_thesis.pdf).
