@@ -33,14 +33,9 @@ Check out my current valid _certifications_.
 ---
 
 ## Work Experience
+### Technical Experience
 
-### [Hard Rock Digital](https://www.hardrockdigital.com)
-
-<p>
-<a href="https://www.hardrockdigital.com" target="_blank">
-  <img src="../../assets/cv/pictures/hard-rock-digital-banner.jpg" alt="HRD Banner" width="100%" />
-</a>
-</p>
+#### [Hard Rock Digital](https://www.hardrockdigital.com)
 
 *Data Engineer (Remote) / Jan 2025 – present*  
 
@@ -51,13 +46,7 @@ Check out my current valid _certifications_.
     - Responsible for creating _regulatory reports_ and _optimising_ various **SQL**s for efficiency in **Snowflake**.
     - Designed and built out in **Terragrunt** / **Terraform** the new gambling _self-exclusion_ pipeline.
 
-### [MarketCast](https://marketcast.com)
-
-<p>
-<a href="https://marketcast.com" target="_blank">
-  <img src="../../assets/cv/pictures/marketcast-banner.jpeg" alt="MarketCast Banner" width="100%" />
-</a>
-</p>
+#### [MarketCast](https://marketcast.com)
 
 *Senior Cloud Engineer (Hybrid) / November 2023 – January 2025*  
 
@@ -93,7 +82,7 @@ Check out my current valid _certifications_.
     - Defined best practices for code development, unit testing, **IaC** and **CI**/**CD** deployments across the _data science_ team.
     - Implemented the _principle of least privilege_ to roles in our _production_ accounts.
     - Conducted _knowledge sharing sessions_ for upskilling the team, based on specific gaps in knowledge.
-    - Refactored a sub-optimal **ETL** pipeline for our TV viewing data, reducing **EC2** costs by _25%_ and execution time from _hours to minutes_ (**PySpark** from **Pandas**).
+    - Refactored a suboptimal **ETL** pipeline for our TV viewing data, reducing **EC2** costs by _25%_ and execution time from _hours to minutes_ (**PySpark** from **Pandas**).
 
 - **Other Things Of Note**
     - Designed and implemented a pipeline for **A+E** for detecting _ageism_ in advertising.
@@ -102,16 +91,43 @@ Check out my current valid _certifications_.
       See the _blog post_ [here](https://www.mediavillage.com/article/ae-research-why-older-adults-matter-to-advertisers/print/).
 
 
+### Non-Technical Experience
+
+#### [LCC Learning](https://www.lcc-learning.com)
+
+*Mathematics Writer (Temporary) / October 2020*  
+
+#### [Pimlico Academy](https://www.pimlico.futureacademies.org)
+
+*Mathematics Intervention Tutor / January 2020 – July 2020*  
+
+#### [Imperial College London](https://www.imperial.ac.uk)
+
+*Graduate Teaching Assistant (Mathematics) / September 2019 – January 2020*
+
+#### [University of Bath](https://marketcast.com)
+
+*Mathematics Senior Peer Tutor / August 2018 – May 2019* </br>
+*Mathematics First Year Tutor / September 2017 – May 2019* </br>
+*Mathematics Peer Tutor / September 2016 – May 2019*
+
+
 ## Education
 
 ### University
 
-<p>
-<a href="https://www.bath.ac.uk" target="_blank">
-  <img src="../../assets/cv/pictures/university-of-bath.svg" alt="UOB Logo" width="25%" />
-</a>
-</p>
+_Masters in Mathematics_, **MMath**.</br>
+[_University of Bath_](https://www.bath.ac.uk) attended from **September 2015** to **July 2019**.</br>
+Awarded _first class honours_ (88%).
 
-_Masters in Mathematics_, **MMath** from the _University of Bath_.<br>
-Awarded _first class honours_ (88%) and attended from **September 2015** to **July 2019**.<br>
 I specialised in functional analysis and my _thesis_ is [here](../../assets/cv/pdf/math_thesis.pdf).
+
+### Pre-University
+
+**A-Levels** in _Mathematics_, _Further Mathematics_ and _Chemistry_.</br>
+[_Gravesend Grammar School_](https://gravesendgrammar.com) attended from **September 2013** to **July 2015**.</br>
+Awarded A\*A\*A\*.
+
+**GCSEs**.</br>
+[_Thamesview School_](https://www.thamesviewsch.co.uk) attended from **September 2008** to **July 2013**.</br>
+Awarded 8 **GCSE**s grade A\*-C and 3 **BTEC**s of grade _Distinction_.
