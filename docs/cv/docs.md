@@ -40,11 +40,13 @@ Check out my current valid _certifications_.
 *Data Engineer (Remote) / Jan 2025 – present*  
 
 - **Optimising and Refactoring Suboptimal Processes**
-    - Refactored and optimised various **[Airflow](https://airflow.apache.org) DAG**s to adhere to best practices, improving the efficiency of **DAG** _parsing_ and _debugging_. 
-    - Fixed _critical bugs_ in several scripts and ensuring proper development environments were in place.
-    - Started the creation of _documentation_ in **DBT Cloud**, utilising unit and data tests for audit purposes and unit testing of **DAG** code.
-    - Responsible for creating _regulatory reports_ and _optimising_ various **SQL**s for efficiency in **Snowflake**.
-    - Designed and built out in **Terragrunt** / **Terraform** the new gambling _self-exclusion_ pipeline.
+    - Refactored and optimised various **Airflow DAG**s to adhere to best practices, improving the efficiency of **DAG** _parsing_ and _debugging_.
+    - Started the creation of documentation in **DBT Cloud**, utilising unit and data tests for audit purposes, as well as **Snowflake**.
+    - Designed and built out in **Terraform** the new gambling _self-exclusion_ pipeline, creating a new data model for efficiency.
+    - Created several **CI**/**CD** pipelines for deployment of this pipeline, as well as testing including tools such as **mypy**.
+    - Bootstrapped the **Astronomer** (Airflow) environments for our regulatory team, creating utility operators for logging and notifications.
+    - Created a template for unit testing including _mocking_, as well as introducing data validation tools to the team.
+
 
 #### [MarketCast](https://marketcast.com)
 
