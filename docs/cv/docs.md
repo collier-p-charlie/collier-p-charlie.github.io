@@ -28,6 +28,9 @@ Check out my current valid _certifications_.
 <a href="https://www.credly.com/badges/221fd7b9-0faa-48b2-ba38-3b411a9912d3/public_url" target="_blank">
   <img src="../../assets/cv/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect Associate Badge" width="100" />
 </a>
+<a href="" target="_blank">
+  <img src="../../assets/cv/certifications/hashicorp-certified-terraform-associate.png" alt="HashiCorp Certified Terraform Associate Badge" width="100" />
+</a>
 </p>
 
 ---

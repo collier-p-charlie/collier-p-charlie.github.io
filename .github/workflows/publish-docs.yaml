@@ -37,7 +37,6 @@ jobs:
 
       - name: Install dependencies
         run: |
-          uv venv .venv && source .venv/bin/activate
           uv pip install -r requirements.txt
 
       - name: Get cache ID
@@ -53,5 +52,4 @@ jobs:
 
       - name: Deploy Documentation
         run: |
-          source .venv/bin/activate
           mkdocs gh-deploy --force
