@@ -1,6 +1,7 @@
 # Welcome
 
-Hi, I'm Charlie, I'm based in the **UK**, and I am currently a _Data Engineer_ at [**Hard Rock Digital**](https://www.hardrockdigital.com).
+Hi, I'm Charlie, I'm based in the **UK**.</br>
+I am currently a _Data Engineer_ at [**Trinity College London**](https://www.trinitycollege.com).
 
 For more information on my experience, please see [CV](./cv/docs.md).</br>
 A link to my personal **GitHub** is [here](https://github.com/collier-p-charlie).</br>

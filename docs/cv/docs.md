@@ -38,9 +38,16 @@ Check out my current valid _certifications_.
 ## Work Experience
 ### Technical Experience
 
+#### [Trinity College London](https://www.trinitycollege.com)
+
+*Data Engineer (Hybrid) / August 2025 – present*</br>
+*Contract Role (9 Months)*
+
+
 #### [Hard Rock Digital](https://www.hardrockdigital.com)
 
-*Data Engineer (Remote) / Jan 2025 – present*  
+*Data Engineer (Remote) / January 2025 – August 2025*</br>
+*Permanent Role*
 
 - **Optimising and Refactoring Suboptimal Processes**
     - Refactored and optimised various **Airflow DAG**s to adhere to best practices, improving the efficiency of **DAG** _parsing_ and _debugging_.
@@ -53,7 +60,8 @@ Check out my current valid _certifications_.
 
 #### [MarketCast](https://marketcast.com)
 
-*Senior Cloud Engineer (Hybrid) / November 2023 – January 2025*  
+*Senior Cloud Engineer (Hybrid) / November 2023 – January 2025*</br>
+*Permanent Role*
 
 - **Designing and Implementing the Survey Database Solution**
     - As part of the _data architecture_ team, I scoped, designed and implemented our new _data warehouse_ solution for survey data.
