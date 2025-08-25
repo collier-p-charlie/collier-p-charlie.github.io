@@ -4,7 +4,7 @@ date: 2025-08-25
 description: >
   An introduction to basic logic concepts and mathematical logic in the real numbers.
 categories: 
-  - Analysis
+  - Mathematical Analysis
 ---
 
 # Introduction to Logic
