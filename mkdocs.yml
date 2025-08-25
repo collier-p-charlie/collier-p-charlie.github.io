@@ -28,6 +28,7 @@ theme:
 
 plugins:
   - search
+  - blog
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -42,5 +43,7 @@ extra_javascript:
 nav:
   - Home: index.md
   - CV: cv/docs.md
+  - Blog:
+    - blog/index.md
   - Packages:
-      - "fsio": https://collier-p-charlie.github.io/fsio/
+    - "fsio": https://collier-p-charlie.github.io/fsio/
